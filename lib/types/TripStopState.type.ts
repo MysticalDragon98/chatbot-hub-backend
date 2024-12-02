@@ -1,0 +1,1 @@
+export type TripStopState = "pending" | "in-progress" | "completed" | "cancelled";

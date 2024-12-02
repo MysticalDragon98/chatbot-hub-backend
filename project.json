@@ -1,0 +1,26 @@
+{
+    "type": "ts",
+    "plugins": [
+        "http",
+        "mongo",
+        "jwt"
+    ],
+    "options": {
+        "type": "ts",
+        "plugins": [
+            "http",
+            "mongo"
+        ],
+        "options": {
+            "type": "ts",
+            "plugins": [
+                "http"
+            ],
+            "options": {
+                "type": "ts",
+                "plugins": [],
+                "options": {}
+            }
+        }
+    }
+}

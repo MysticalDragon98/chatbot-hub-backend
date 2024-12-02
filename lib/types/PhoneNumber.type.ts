@@ -1,0 +1,1 @@
+export type PhoneNumber = string & { readonly __brand: unique symbol };
